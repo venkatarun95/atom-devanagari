@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle hindi",
+        "command": "hindi:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hindi",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "hindi:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
