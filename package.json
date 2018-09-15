@@ -1,8 +1,8 @@
 {
-  "name": "hindi",
+  "name": "Hindi typing",
   "main": "./lib/hindi",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "For phonetically writing Devanagari using an English keyboard. Currently full support is available only for Hindi.",
   "keywords": [
   ],
   "activationCommands": {
